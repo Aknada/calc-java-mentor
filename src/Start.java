@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Calculator  {
+public class Start  {
     public static void main(String[] args) {
 
         Scanner console = new Scanner(System.in);
